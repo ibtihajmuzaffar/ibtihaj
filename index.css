@@ -1,0 +1,45 @@
+h1{
+    background-color: aquamarine; 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-shadow: 3px 0px 5px red
+}
+h1:hover{
+    color: darkgreen;
+    text-decoration: overline;
+}
+.click_here{
+    height: 50px;
+    width: 100px;
+    color: rgb(32, 35, 218);
+  
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+    font-weight: 100;
+}
+img{
+    height: 300px;
+    width: 250px;
+    padding-left: 20px;
+}
+.image{
+    display:inline-flex;
+    
+}
+.new{
+    display:inline-flex;
+}
+b{
+    color: blue;
+}
+li{
+    padding-bottom: 10px;
+}
+.text{
+height: 300px;
+width: 400px;
+}
